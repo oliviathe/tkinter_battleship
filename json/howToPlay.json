@@ -1,0 +1,1 @@
+"- Guess enemy battleship's location in a 5x5 board\n\n- Only one enemy battleship exists\n\n- Each step will be recorded in a sum\n\n- More than 1 step can be recorded in the same coordinate\n\n- Maximum score is 200\n\n- For each step wrong, 4 point will be taken\n\n- Game ends if the player guessed the right coordinate"
